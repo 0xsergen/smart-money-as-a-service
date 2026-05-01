@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/jobs/score-wallets",
+      "schedule": "0 0 * * *"
+    }
+  ]
+}
